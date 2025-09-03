@@ -1,3 +1,5 @@
+# Should no longer be useful starting from Android 16 September 2025 feature drop (BP3A.250905.014)
+
 Description copied from [igorb200828/Android-16-Expressive-Theme](https://github.com/igorb200828/Android-16-Expressive-Theme)
 
 # Material 3 Expressive Theme
